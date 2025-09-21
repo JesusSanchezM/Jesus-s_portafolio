@@ -3,37 +3,37 @@
 Welcome to my **Data Science Portfolio** 🚀.  
 Here you will find a collection of projects showcasing my skills in **Python, R, SQL, Econometrics, Machine Learning, and Data Engineering**.  
 
-## 📂 Projects
+# 📂 Projects
 
-### 1. Labor Informality in Mexico – Probit Model
+## 1. Labor Informality in Mexico – Probit Model
 - 📊 Econometric analysis of ENOE survey data (INEGI).
 - 🔧 Tools: Python (Pandas, Statsmodels), Streamlit, Power BI.
 - 🎯 Goal: Estimate probability of informality with socioeconomic factors.
 - [Link to project](./01_informalidad_probit/)
 
-### 2. Inflation Forecasting – SVAR Model
+## 2. Inflation Forecasting – SVAR Model
 - 📈 Structural VAR model to study inflation shocks in Mexico.
 - 🔧 Tools: Python (Statsmodels), Plotly.
 - 🎯 Goal: Forecast inflation and analyze policy effects.
 - [Link to project](./02_inflacion_svar/)
 
-### 3. Kaggle Competitions
+## 3. Kaggle Competitions
 - 🏅 Titanic (Classification) and House Prices (Regression).
 - 🔧 Tools: Python, Scikit-learn, XGBoost.
 - [Link to project](./03_kaggle_competitions/)
 
-### 4. Dashboards
+## 4. Dashboards
 - 📊 Socioeconomic indicators for Puebla (INEGI data).
 - 📈 Inflation visualization dashboard.
 - 🔧 Tools: Streamlit, Plotly, Power BI.
 - [Link to project](./04_dashboards/)
 
-### 5. NLP & Generative AI
+## 5. NLP & Generative AI
 - 📰 News classification in Spanish using BERT.
 - 🤖 Chatbot for ENOE survey queries with LangChain.
 - [Link to project](./05_nlp_projects/)
 
-### 6. End-to-End ML System
+## 6. End-to-End ML System
 - 🔄 Data pipeline → Model training → API (FastAPI) → Dashboard (Streamlit).
 - 🐳 Deployed with Docker and Cloud.
 - [Link to project](./06_end_to_end_project/)
