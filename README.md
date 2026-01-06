@@ -1,7 +1,7 @@
 # Data Science Portfolio – Jesús Alexis Sánchez Moreno
 
 Welcome to my **Data Science Portfolio** 🚀.  
-I am an Economist and Data Analyst specializing in building scalable analytical solutions. [cite_start]This portfolio showcases my ability to bridge the gap between **Econometric theory** and **Data Engineering** to solve complex business challenges.
+I am an Economist and Data Analyst specializing in building scalable analytical solutions. This portfolio showcases my ability to bridge the gap between **Econometric theory** and **Data Engineering** to solve complex business challenges.
 
 # 📂 Strategic Projects
 
@@ -47,4 +47,4 @@ I am an Economist and Data Analyst specializing in building scalable analytical 
 - 📑 **Published Researcher**: Author of articles on labor informality and human rights published in *Problemas del Desarrollo* and the *Human Rights Gazette*.
 - 💡 **Core Skills**: Data Governance, Machine Learning Deployment, and Stakeholder Management.
 - 📧 **Contact**: sm224470329@alm.buap.mx.
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-alexis-sanchez-moreno-b64694247) | [cite_start][GitHub](https://github.com/JesusSanchezM)[cite: 2, 4].
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-alexis-sanchez-moreno-b64694247) | [GitHub](https://github.com/JesusSanchezM).
